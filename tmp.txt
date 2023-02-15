@@ -1,0 +1,1322 @@
+ 3D face centered cubic lattice
+ number of conduction bath levels =           4
+ WARNING: ns given in hubb.dat is NOT used!!
+ number of iterations :          50
+ nmax =          100
+ U  =    2.0000000000000000     
+ mu =    1.0000000000000000     
+ h =    0.0000000000000000     
+ beta =   30.000000000000000     
+ Iwmax =        1024
+ for real frequencies:   -12.000000000000000        12.000000000000000     
+ Working at fixed mu =   1.0000000000000000     
+ Initial mu =   1.0000000000000000     
+ # of independent blocks:          36
+ # of independent blocks:          36
+ ------------------------------------------------
+ starting Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         1.0000000000000000
+        -1.0000000000000000
+         0.5000000000000000
+        -0.5000000000000000
+ V(k) 
+         0.2500000000000000
+         0.1000000000000000
+         0.2500000000000000
+         0.1000000000000000
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+    Iteration :            1
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -4.0843679810470741     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.96901943409886637     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.856268E-04
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.2678225594069448
+        -1.1232730088260490
+        -0.2678225594069448
+         1.1232730088260490
+ V(k) 
+         0.1494903549015791
+         0.3129363671909451
+         0.1494903549015791
+         0.3129363671909451
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.4858418692E+00
+ ------------------------------------------------
+    Iteration :            2
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.9173366134993111     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000990     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.541224E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.2367811121153843
+        -1.1262889520836330
+        -0.2367811121153843
+         1.1262889520836330
+ V(k) 
+         0.1660439639475774
+         0.2911642643934215
+         0.1660439639475774
+         0.2911642643934215
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.4301784491E-03
+ ------------------------------------------------
+    Iteration :            3
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.8607297174454329     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999995548     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.969573E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.2036399364686006
+        -1.1287806995880079
+        -0.2036399364686006
+         1.1287806995880079
+ V(k) 
+         0.1717464275854418
+         0.2772166101877108
+         0.1717464275854418
+         0.2772166101877108
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.3329003696E-03
+ ------------------------------------------------
+    Iteration :            4
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.7989750636409667     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000655     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.319128E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1475876830172807
+        -1.1286577563691986
+        -0.1475876830172807
+         1.1286577563691986
+ V(k) 
+         0.1515203015512691
+         0.3165081629842317
+         0.1515203015512691
+         0.3165081629842317
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1273698132E-02
+ ------------------------------------------------
+    Iteration :            5
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.7015376242884335     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000042     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.104634E-04
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1404289489597797
+        -1.1284906723940198
+        -0.1404289489597797
+         1.1284906723940198
+ V(k) 
+         0.1620328109076902
+         0.3168273569111396
+         0.1620328109076902
+         0.3168273569111396
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.4047253202E-04
+ ------------------------------------------------
+    Iteration :            6
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6976157616453600     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000001186     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.221418E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1146385877469027
+        -1.1286326560029776
+        -0.1146385877469027
+         1.1286326560029776
+ V(k) 
+         0.1546418715815359
+         0.3174224047467050
+         0.1546418715815359
+         0.3174224047467050
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1800357392E-03
+ ------------------------------------------------
+    Iteration :            7
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6454825191775377     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999997702     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.249417E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1067303053768229
+        -1.1289100903230960
+        -0.1067303053768229
+         1.1289100903230960
+ V(k) 
+         0.1551666995419038
+         0.3139889550451341
+         0.1551666995419038
+         0.3139889550451341
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1867048027E-04
+ ------------------------------------------------
+    Iteration :            8
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6307270734334511     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000122     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.251531E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1054168675799129
+        -1.1288392952471009
+        -0.1054168675799129
+         1.1288392952471009
+ V(k) 
+         0.1576043025435886
+         0.3142615416484350
+         0.1576043025435886
+         0.3142615416484350
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1936585660E-05
+ ------------------------------------------------
+    Iteration :            9
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6311877054875308     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999996247     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.216205E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1033754238160965
+        -1.1287721594181972
+        -0.1033754238160965
+         1.1287721594181972
+ V(k) 
+         0.1580991864405918
+         0.3143323535705660
+         0.1580991864405918
+         0.3143323535705660
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1105481065E-05
+ ------------------------------------------------
+    Iteration :           10
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6282627947437200     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000266     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.214871E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1029620245824733
+        -1.1287086923398422
+        -0.1029620245824733
+         1.1287086923398422
+ V(k) 
+         0.1588542168134391
+         0.3144786214971130
+         0.1588542168134391
+         0.3144786214971130
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1915980417E-06
+ ------------------------------------------------
+    Iteration :           11
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6284049308677777     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000047     
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.210007E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1027004996778617
+        -1.1286545429781754
+        -0.1027004996778617
+         1.1286545429781754
+ V(k) 
+         0.1592567901212340
+         0.3145892462612369
+         0.1592567901212340
+         0.3145892462612369
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.6140763392E-07
+ ------------------------------------------------
+    Iteration :           12
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6284009209056176     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999996714     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.208512E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1026454654535954
+        -1.1279155561795073
+        -0.1026454654535954
+         1.1279155561795073
+ V(k) 
+         0.1595510594433131
+         0.3143754101866945
+         0.1595510594433131
+         0.3143754101866945
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1703626388E-06
+ ------------------------------------------------
+    Iteration :           13
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6270720398121483     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000404     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.207437E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1026048933947490
+        -1.1278675193213683
+        -0.1026048933947490
+         1.1278675193213683
+ V(k) 
+         0.1597046330194367
+         0.3144808518708028
+         0.1597046330194367
+         0.3144808518708028
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.9664105932E-08
+ ------------------------------------------------
+    Iteration :           14
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6271577336934930     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000628     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.209669E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1025606585406698
+        -1.1278657705939918
+        -0.1025606585406698
+         1.1278657705939918
+ V(k) 
+         0.1597787161548365
+         0.3144867816594043
+         0.1597787161548365
+         0.3144867816594043
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1870813427E-08
+ ------------------------------------------------
+    Iteration :           15
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6271709396082250     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000282     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.208388E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1026518936767501
+        -1.1278224377560473
+        -0.1026518936767501
+         1.1278224377560473
+ V(k) 
+         0.1599019420632585
+         0.3146169809290888
+         0.1599019420632585
+         0.3146169809290888
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1058451481E-07
+ ------------------------------------------------
+    Iteration :           16
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6274629801658418     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999997391     
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.205749E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1025282900814607
+        -1.1276453457903359
+        -0.1025282900814607
+         1.1276453457903359
+ V(k) 
+         0.1598422387036263
+         0.3148661272667903
+         0.1598422387036263
+         0.3148661272667903
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.2806945046E-07
+ ------------------------------------------------
+    Iteration :           17
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6270133577210055     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000562     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.205975E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1025317295001031
+        -1.1275872193594521
+        -0.1025317295001031
+         1.1275872193594521
+ V(k) 
+         0.1598705969296720
+         0.3148064072902009
+         0.1598705969296720
+         0.3148064072902009
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1940294039E-08
+ ------------------------------------------------
+    Iteration :           18
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6268993754009378     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000009     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.204468E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1024389148431419
+        -1.1255553998263554
+        -0.1024389148431419
+         1.1255553998263554
+ V(k) 
+         0.1598003315343564
+         0.3146397101708002
+         0.1598003315343564
+         0.3146397101708002
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1042407583E-05
+ ------------------------------------------------
+    Iteration :           19
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6226151815569887     
+ Green-Function started
+ Green-Function finished
+ densimp =    1.0000000000000231     
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.204188E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1024465819424556
+        -1.1255421770350020
+        -0.1024465819424556
+         1.1255421770350020
+ V(k) 
+         0.1598149460759676
+         0.3146204863341006
+         0.1598149460759676
+         0.3146204863341006
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.2041918368E-09
+ ------------------------------------------------
+    Iteration :           20
+ ------------------------------------------------
+ Threshold for n=   1.0000000000000000E-004
+  -3.6226061386684423     
+ Green-Function started
+ Green-Function finished
+ densimp =   0.99999999999999545     
+ for the 3D-cubic
+ SELF_CONSISTENCY LOOP
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ for the 3D-cubic
+ minimization
+ iexit fmin     1  0.204433E-05
+ ------------------------------------------------
+ new Anderson parameters 
+ ------------------------------------------------
+ Eps(k) 
+         0.1024453288840524
+        -1.1255421368936400
+        -0.1024453288840524
+         1.1255421368936400
+ V(k) 
+         0.1598170343363481
+         0.3146205965712265
+         0.1598170343363481
+         0.3146205965712265
+         1.0000000000000000   #chemical potential
+ ------------------------------------------------
+ convergence parameter :  0.1486187583E-11
+  -3.6226064885700753     
+ Green-Function started
+ Green-Function finished
+ Real Green-Function started
+ Real Green-Function finished
+ Now computing Matsubara self-energy
+ Pi is equal to    3.1415926535897931     
+ Now computing self-energy on the real axis
+ Average Double Occupancy :   6.3621763616594759E-002
+ ------------------------------------------------
+ final Anderson parameters 
+ ------------------------------------------------
+ cut from the following line...
+ Eps(k) 
+         0.1024453288840524
+        -1.1255421368936400
+        -0.1024453288840524
+         1.1255421368936400
+ V(k) 
+         0.1598170343363481
+         0.3146205965712265
+         0.1598170343363481
+         0.3146205965712265
+         1.0000000000000000   #chemical potential
+ ...to the line above and copy into hubb.andpar
+ ------------------------------------------------
+ sig0 =              (1.0000000000000224,-0.45590854025237204)
+ zed =   0.18678999255677589     
+ DOSTEST=  0.24905520850179991     
+ U | xmu | densimp | densold | emin | zpart
+   2.0000000000000000        1.0000000000000000       0.99999999999997724        0.0000000000000000       -3.6226064885700753        6.3337330813346612E-048
+       End lisalanc 
+                    ========================================
